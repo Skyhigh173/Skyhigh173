@@ -1,16 +1,15 @@
-### Hi there 👋
+# Something About Me
 
-<!--
-**Skyhigh173/Skyhigh173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a player (plays `minecraft`,`exp idle`, `idle games`, `phigros` etc)
 
-Here are some ideas to get you started:
+~~often make rubbish projects~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Knows : `console.log("JavaScript");`, `print("python")`, `html { font-family: CSS; }`, `<p>HTML</p>` 
+
+$$\text{Also, } \LaTeX \text{ is good}$$
+
+# GitHub Status
+
+   ![](https://github-readme-stats.vercel.app/api?username=Skyhigh173&layout=compact&show_icons=true&count_private=true)
+   
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhigh173&layout=compact&show_icons=true&count_private=true)
