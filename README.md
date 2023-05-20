@@ -1,10 +1,8 @@
 # Something About Me
 
-a player (plays `minecraft`,`exp idle`, `idle games`, `phigros` etc)
 
-~~often make rubbish projects~~
 
-Knows : `console.log("JavaScript");`, `print("python")`, `html { font-family: CSS; }`, `<p>HTML</p>` 
+Knows : `console.log("JavaScript");`, `print("python")`, `html { font-family: CSS; }`, `<p>HTML</p>` , `printf("C");`
 
 $$\text{Also, } \LaTeX \text{ is good}$$
 
