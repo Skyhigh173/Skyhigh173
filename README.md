@@ -2,7 +2,7 @@
 
 
 
-Knows : `console.log("JavaScript");`, `print("python")`, `html { font-family: CSS; }`, `<p>HTML</p>` , `printf("C");`
+ `console.log("JavaScript");`, `print("python")`, `html { font-family: CSS; }`, `<p>HTML</p>` , `printf("C");`
 
 $$\text{Also, } \LaTeX \text{ is good}$$
 
